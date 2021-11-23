@@ -30,7 +30,7 @@ The distribution of different face shapes and hairstyles in *CelebHair*:
 
 ![image-20211123101339818](https://tva1.sinaimg.cn/large/008i3skNly1gwov4ezt78j315j0g73zr.jpg)
 
-## How to train
+## How to Train
 
 ```shell
 ./darknet detector train data/face.data cfg/face.cfg yolov4.conv.137 -map 
