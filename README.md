@@ -18,12 +18,6 @@ Ten classes of hairstyles available in the Hairstyle30k dataset:
 
 ![image-20211123100852698](https://tva1.sinaimg.cn/large/008i3skNly1gwouzfolmuj30kn0b1myv.jpg)
 
-## Hairstyle Try-on
-
-The hairstyle try-on process through face-swapping:
-
-![image-20211123100930480](https://tva1.sinaimg.cn/large/008i3skNly1gwov0379c3j30ee06k74i.jpg)
-
 ## Data Description
 
 The distribution of different face shapes and hairstyles in *CelebHair*: 
