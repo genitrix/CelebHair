@@ -9,6 +9,7 @@
 *.dll
 *.lib
 *.dylib
+*.DS_Store
 mnist/
 data/
 caffe/
